@@ -1,0 +1,6 @@
+{
+  "generator-open-wc": {
+    "tagName": "open-wc-app",
+    "className": "OpenWcApp"
+  }
+}
