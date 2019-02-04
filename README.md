@@ -2,7 +2,7 @@
 > This starter app is currently in development.
 
 <p align="center">
-  <img width="200" src="https://open-wc.org/hero.png"/>
+  <img width="200" src="https://open-wc.org/hero.png"></img>
 </p>
 
 ## Open-wc Starter App
@@ -22,11 +22,10 @@ npm start
 ```
 
 <p align="center">
-  <img src="./open-wc-starter-app.png"/>
+  <img src="./open-wc-starter-app.png"></img>
 </p>
 
-
-## Scripts
+## Scripts
 
 - `start` runs your app with auto reload for development, it only works on browsers which support modules for faster builds
 - `start:es5` runs your app for development, it only works on browsers that don't support modules (IE11)
