@@ -18,3 +18,7 @@ npm-debug.log
 ## build output
 dist
 build-stats.json
+
+## we don't want lock files for now
+yarn.lock
+package-lock.json
