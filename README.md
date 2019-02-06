@@ -1,6 +1,3 @@
-> ## 🛠 Status: In Development
-> This starter app is currently in development.
-
 <p align="center">
   <img width="200" src="https://open-wc.org/hero.png"></img>
 </p>
@@ -14,7 +11,7 @@
 To get started:
 
 ```sh
-git clone 
+git clone https://github.com/open-wc/open-wc-starter-app.git
 cd open-wc-starter-app
 
 npm install
@@ -33,3 +30,4 @@ npm start
 - `start:build` runs your built app using a plain web server, to prove it works without magic 😃
 - `build:stats` creates an analysis report of your app bundle to be consumed by Webpack Visualizer and Analyser
 - `test` runs your test suite
+- `lint` runs the linter for your project
