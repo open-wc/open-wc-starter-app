@@ -42,8 +42,8 @@
   },
   "dependencies": {
     "@open-wc/polyfills-loader": "^0.2.1",
-    "lit-element": "^2.0.0-rc.5",
-    "lit-html": "^1.0.0-rc.2"
+    "lit-element": "^2.0.1",
+    "lit-html": "^1.0.0"
   },
   "lint-staged": {
     "*.js": [
