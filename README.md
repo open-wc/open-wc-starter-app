@@ -2,7 +2,7 @@
   <img width="200" src="https://open-wc.org/hero.png"></img>
 </p>
 
-## Open-wc Starter App
+# Open-wc Starter App
 
 [![Built with open-wc recommendations](https://img.shields.io/badge/built%20with-open--wc-blue.svg)](https://github.com/open-wc)
 
@@ -16,8 +16,13 @@ npm init @open-wc starter-app
 ```
 
 <p align="center">
-  <img src="./open-wc-starter-app.png"></img>
+  <a href="https://open-wc-starter-app.netlify.com/">
+    <img src="./open-wc-starter-app.png"></img>
+  </a>
 </p>
+
+[Live demo](https://open-wc-starter-app.netlify.com/)
+
 
 ## Scripts
 - `build` builds your app and outputs it in your dist directory
