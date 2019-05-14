@@ -11,8 +11,8 @@
 To get started:
 
 ```sh
-npm init @open-wc starter-app
-# requires node 10 & npm 6 or higher
+npm init @open-wc
+# requires node 10.12 & npm 6 or higher
 ```
 
 <p align="center">
